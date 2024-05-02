@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A Full Stack developer with industry experience of 8 years building from Websites, Backend Api`s to Complex Android Applications</h3>
+<h3 align="center">Dynamic and passionate technology professional with a comprehensive background in full-stack engineering. With a keen focus on innovation and success, I specialize in leading and empowering teams to surpass objectives and deliver exceptional results. My enthusiasm for technology and continuous improvement drives my approach to solving complex challenges and pioneering new solutions. </h3>
 
 
 - 🔭 I’m currently working on [Getactyv](https://getactyvphysio.com)
 
-- 💬 Ask me about **jquery,nodejs,mysql,aws,devops**
+- 💬 Ask me about **jquery,nodejs,mysql,aws,azure,architecture..**
 
-- 📫 How to reach me **abhishek@getactyv.com**
+- 📫 How to reach me **astroabhi.abhi@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iamastro](https://www.linkedin.com/in/iamastro)
 
-- ⚡ Fun fact **I think im funny**
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
