@@ -15,9 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/astroabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="astroabhi" height="30" width="40" /></a>
-<a href="https://twitter.com/astro_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astro_abhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamastro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamastro" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2994664/astro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2994664/astro" height="30" width="40" /></a>
 <a href="https://instagram.com/astro_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astro_abhi" height="30" width="40" /></a>
 </p>
 
