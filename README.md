@@ -2,7 +2,7 @@
 <h3 align="center">Dynamic and passionate technology professional with a comprehensive background in full-stack engineering. With a keen focus on innovation and success, I specialize in leading and empowering teams to surpass objectives and deliver exceptional results. My enthusiasm for technology and continuous improvement drives my approach to solving complex challenges and pioneering new solutions. </h3>
 
 
-- 🔭 I’m currently working on [Getactyv](https://getactyvphysio.com)
+- 🔭 I’m currently working on [Niveus Solutions](https://niveussolutions.com)
 
 - 💬 Ask me about **jquery,nodejs,mysql,aws,azure,architecture..**
 
